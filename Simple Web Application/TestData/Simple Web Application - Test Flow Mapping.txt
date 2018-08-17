@@ -1,0 +1,12 @@
+Test FLOW1 (Step ID: bb9dbd76) represents Conformiq tests:
+	(1) Item 1: 'Armen'
+Test FLOW2 (Step ID: 82553e1c) represents Conformiq tests:
+	(1) Add item with sku CQ_0002 and qty 5 to shopping cart
+	(2) Add item with sku CQ_0003 and qty 5 to shopping cart
+	(3) Add item with sku abc and qty -1 to shopping cart
+Test FLOW3 (Step ID: 392a3940) represents Conformiq tests:
+	(1) Node Activity 'Invalid Login'
+Test FLOW4 (Step ID: 57543b4) represents Conformiq tests:
+	(1) Node Activity 'Check Out'
+Test FLOW5 (Step ID: 7bde556c) represents Conformiq tests:
+	(1) Remove CQ_0001
